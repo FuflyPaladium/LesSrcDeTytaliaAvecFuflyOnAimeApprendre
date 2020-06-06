@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tytaliamod",
+  "name": "TytaliaMod",
+  "description": "A simple mod for Tytalia <3",
+  "version": "0.0.3",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["iZyerax"],
+  "credits": "",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,214 @@
+{
+    "records.record_toby_fox_hopes_and_dreams": {
+        "sounds":[
+            {
+                "name":"toby_fox_hopes_and_dreams",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+    
+    "records.record_toby_fox_megalovania": {
+        "sounds":[
+            {
+                "name":"toby_fox_megalovania",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+        "records.record_attack_on_titan_ost": {
+        "sounds":[
+            {
+                "name":"attack_on_titan_ost",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+    
+        "records.record_giorno_theme": {
+        "sounds":[
+            {
+                "name":"giorno_theme",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+    
+        "records.record_interstellar_main_theme": {
+        "sounds":[
+            {
+                "name":"interstellar_main_theme",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+    
+        "records.record_old_town_road_lil_nas_x": {
+        "sounds":[
+            {
+                "name":"old_town_road_lil_nas_x",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+        "records.record_one_piece_overtaken": {
+        "sounds":[
+            {
+                "name":"one_piece_overtaken",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+        "records.record_september_meme": {
+        "sounds":[
+            {
+                "name":"september_meme",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+        "records.record_smash_bros_menu": {
+        "sounds":[
+            {
+                "name":"smash_bros_menu",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+        "records.record_travis_scott_goosebumps": {
+        "sounds":[
+            {
+                "name":"travis_scott_goosebumps",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+        "records.record_travis_scott_sicko_mode": {
+        "sounds":[
+            {
+                "name":"travis_scott_sicko_mode",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+        "records.record_tri_poloski": {
+        "sounds":[
+            {
+                "name":"tri_poloski",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+    
+        "records.record_renois": {
+        "sounds":[
+            {
+                "name":"renois",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+    
+        "records.record_captain_sparklez_revenge": {
+        "sounds":[
+            {
+                "name":"captain_sparklez_revenge",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+    
+        "records.record_tryhardninja_take_back_at_night": {
+        "sounds":[
+            {
+                "name":"tryhardninja_take_back_at_night",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+    
+        "records.record_carla_bim_bam_toi": {
+        "sounds":[
+            {
+                "name":"carla_bim_bam_toi",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+    
+        "records.record_all_star_smash_mouse": {
+        "sounds":[
+            {
+                "name":"all_star_smash_mouse",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+    
+        "records.record_alan_walker_end_of_time": {
+        "sounds":[
+            {
+                "name":"alan_walker_end_of_time",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+    
+        "records.record_alan_walker_faded": {
+        "sounds":[
+            {
+                "name":"alan_walker_faded",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+    
+        "records.record_hige_driver_dadadadadadadadadada": {
+        "sounds":[
+            {
+                "name":"hige_driver_dadadadadadadadadada",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+    
+        "records.record_tlt_fnaf1_song": {
+        "sounds":[
+            {
+                "name":"tlt_fnaf1_song",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    },
+    
+        "records.record_tlt_fnafsl_song": {
+        "sounds":[
+            {
+                "name":"tlt_fnafsl_song",
+                "stream":true
+            }
+        ],
+        "category":"record"
+    }
+}
